@@ -1,2 +1,3 @@
 # TBW-Project
-To Be Watched app for movies and TV shows.
+**To Be Watched (TBW) app for movies and TV shows.**
+The purpose of this project is to create a desktop application (then hopefully a mobile app) that functions similar to Goodreads or the Netfilx "My List" section, capable of allowing users to browse, sort, and keep track of a large database of movies and TV Shows. This application will be independent from streaming services, allowing users to add their *own* content, keep a list of content they'd like to watch, rate things they've already seen, and more!
